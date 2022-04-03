@@ -1,0 +1,12 @@
+
+Lenda		Elektroteknike
+------------------------------------
+
+	 Flete Note	
+
+------------------------------------
+
+Emri_Student		Nota
+
+Adrian			8
+Adrian			8

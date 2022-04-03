@@ -1,0 +1,12 @@
+
+Studenti		Adrian
+------------------------------------
+
+	 Lista e notave 	
+
+------------------------------------
+
+Lenda			Nota
+
+Fizike			-2147483648
+Elektroteknike		8
